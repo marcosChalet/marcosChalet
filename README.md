@@ -2,7 +2,7 @@
  <img src="https://komarev.com/ghpvc/?username=marcosChalet&label=VIEWS" />
 </p>
 
-<h1 align="center"> Olá 👋, Meu Nome É Marcos. Sou Um Aspirante A Desenvolvedor Web </h1>
+<h1 align="center">Olá 👋, Meu Nome É Marcos. Sou Um Aspirante A Desenvolvedor Web Full Stack</h1>
 
 <p align="center">
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
@@ -17,26 +17,45 @@
 
 <p align="center">
  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;
- <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;
- <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
+ <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />&nbsp;
+ <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;
+ <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </p>
 <br>
 
-### 🔭 Dê uma olhada em meu [portfólio](https://marcoschalet.github.io/portfolio/).
-<br>
+### 🔭 Dê Uma Olhada Em Meu [Portfólio](https://marcoschalet.github.io/portfolio/).
 <br>
 
+## 📖  O Que Estou Estudando Atualmente
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
+## 📖  O Que Pretendo Estudar Futuramente
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+<br><br>
 <p  align="center">
-<img  src="https://readme-typing-svg.herokuapp.com/?size=35&center=true&vCenter=true&color=03989EFF&width=1700&lines=Buscando+Me+Tornar+Um+Full-Stack+Developer;Graduando+Em+Ciência+Da+Computação+Pela+Universidade+Federal+Do+Cariri;"  width="100%"  height="40px></a>
+<img  src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&size=38&center=true&vCenter=true&color=03989EFF&width=1700&lines=Buscando+Me+Tornar+Um+Full-Stack+Developer;Graduando+Em+Ciência+Da+Computação+Pela+Universidade+Federal+Do+Cariri;"  width="100%"  height="40px></a>
 </p>
 
 [![Marcos github activity graph](https://activity-graph.herokuapp.com/graph?username=marcosChalet&theme=xcode)](https://github.com/marcosChalet)
-
-<br>
-<br>
+<br><br>
 
 ## 📈 Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=marcosChalet&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosChalet&theme=tokyonight" />
 </p>
+
+<br><br>
+<h2 align="center">ENTRE EM CONTATO 📲</h2>
+<br>
+
+<p align="center">
+ <a href="https://www.instagram.com/marcoschalet"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>&nbsp;
+ <a href="https://www.linkedin.com/in/marcoschalet"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p>

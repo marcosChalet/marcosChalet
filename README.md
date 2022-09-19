@@ -1,7 +1,6 @@
 <p align="right">
  <img src="https://komarev.com/ghpvc/?username=marcosChalet&label=VIEWS" />
 </p>
-<br>
 
 <h1 align="center"> Olá, Meu Nome é Marcos. Desenvolvedor Web 👋 </h1>
 

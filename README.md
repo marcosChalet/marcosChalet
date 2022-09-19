@@ -2,7 +2,7 @@
  <img src="https://komarev.com/ghpvc/?username=marcosChalet&label=VIEWS" />
 </p>
 
-<h1 align="center"> Olá, Meu Nome é Marcos. Desenvolvedor Web 👋 </h1>
+<h1 align="center"> Olá, Meu Nome é Marcos. Sou um Desenvolvedor Web 👋 </h1>
 
 <p align="center">
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;

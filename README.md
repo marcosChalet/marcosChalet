@@ -27,7 +27,7 @@
 <br>
 
 <p  align="center">
-<img  src="https://readme-typing-svg.herokuapp.com/?size=35&center=true&vCenter=true&color=03989EFF&width=1700&lines=Buscando+Me+Tornar+Um+Full-Stack+Web+Developer;Graduando+Em+Ciência+Da+Computação+Pela+Universidade+Federal+Do+Cariri;"  width="100%"  height="40px></a>
+<img  src="https://readme-typing-svg.herokuapp.com/?size=35&center=true&vCenter=true&color=03989EFF&width=1700&lines=Buscando+Me+Tornar+Um+Full-Stack+Developer;Graduando+Em+Ciência+Da+Computação+Pela+Universidade+Federal+Do+Cariri;"  width="100%"  height="40px></a>
 </p>
 
 [![Marcos github activity graph](https://activity-graph.herokuapp.com/graph?username=marcosChalet&theme=xcode)](https://github.com/marcosChalet)

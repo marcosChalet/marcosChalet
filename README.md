@@ -56,6 +56,7 @@
 <br><br>
 
 <div align="right">
+ <img width="220" src="https://media.giphy.com/media/JQeTkanQd62ULmlJjV/giphy.gif" />
  <img width=20% src="https://media.giphy.com/media/S3ttuuoFfsi6Mw5fKr/giphy.gif" />
 </div>
                                                                                 
@@ -63,6 +64,10 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=marcosChalet&show_icons=true&theme=tokyonight" />&nbsp;&nbsp;
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosChalet&theme=tokyonight" />
 </p>
+
+<div align="center">
+ <img width="190" src="https://media.giphy.com/media/JQeTkanQd62ULmlJjV/giphy.gif" />
+</div>
 
 <br><br>
 <h2 align="center">ENTRE EM CONTATO 📲</h2>

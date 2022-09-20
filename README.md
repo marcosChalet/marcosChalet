@@ -1,4 +1,5 @@
-![hero](https://user-images.githubusercontent.com/72557256/191142776-8daa8499-043e-4e72-b7cc-bc77242ed08d.png)
+![hero](https://user-images.githubusercontent.com/72557256/191155687-9249ee88-9f12-4877-bf35-e1a48afdcbf2.png)
+
 
 <h1 align="center">Olá 👋, Meu Nome É Marcos. Sou Um Aspirante A Desenvolvedor Web Full Stack.</h1>
 

@@ -69,7 +69,6 @@
  <img width="120" height="110" src="https://media.giphy.com/media/JQeTkanQd62ULmlJjV/giphy.gif" />
 </div>
 
-<br><br>
 <h2 align="center">ENTRE EM CONTATO 📲</h2>
 <br>
 

@@ -56,7 +56,7 @@
 <br><br>
 
 <div align="right">
- <img width="220" src="https://media.giphy.com/media/JQeTkanQd62ULmlJjV/giphy.gif" />
+ <img width="145" height="145" src="https://media.giphy.com/media/JQeTkanQd62ULmlJjV/giphy.gif" />
  <img width=20% src="https://media.giphy.com/media/S3ttuuoFfsi6Mw5fKr/giphy.gif" />
 </div>
                                                                                 
@@ -66,7 +66,7 @@
 </p>
 
 <div align="center">
- <img width="190" src="https://media.giphy.com/media/JQeTkanQd62ULmlJjV/giphy.gif" />
+ <img width="120" height="110" src="https://media.giphy.com/media/JQeTkanQd62ULmlJjV/giphy.gif" />
 </div>
 
 <br><br>

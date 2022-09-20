@@ -1,8 +1,11 @@
+![hero](https://user-images.githubusercontent.com/72557256/191142776-8daa8499-043e-4e72-b7cc-bc77242ed08d.png)
+
+<br>
+<h1 align="center">Olá 👋, Meu Nome É Marcos. Sou Um Aspirante A Desenvolvedor Web Full Stack.</h1>
+
 <p align="right">
  <img src="https://komarev.com/ghpvc/?username=marcosChalet&label=VIEWS" />
 </p>
-
-<h1 align="center">Olá 👋, Meu Nome É Marcos. Sou Um Aspirante A Desenvolvedor Web Full Stack</h1>
 
 <p align="center">
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
@@ -37,17 +40,25 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-<br><br>
-<p  align="center">
+<br>
+
+## 📈 Stats
+
+<br>
+
+<p align="center">
 <img  src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&size=38&center=true&vCenter=true&color=03989EFF&width=1700&lines=Buscando+Me+Tornar+Um+Full-Stack+Developer;Graduando+Em+Ciência+Da+Computação+Pela+Universidade+Federal+Do+Cariri;"  width="100%"  height="40px></a>
 </p>
 
 [![Marcos github activity graph](https://activity-graph.herokuapp.com/graph?username=marcosChalet&theme=xcode)](https://github.com/marcosChalet)
 <br><br>
 
-## 📈 Stats
+<div align="right">
+ <img width=20% src="https://media.giphy.com/media/S3ttuuoFfsi6Mw5fKr/giphy.gif" />
+</div>
+                                                                                
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=marcosChalet&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=marcosChalet&show_icons=true&theme=tokyonight" />&nbsp;&nbsp;
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosChalet&theme=tokyonight" />
 </p>
 

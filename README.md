@@ -1,6 +1,5 @@
 ![hero](https://user-images.githubusercontent.com/72557256/191142776-8daa8499-043e-4e72-b7cc-bc77242ed08d.png)
 
-<br>
 <h1 align="center">Olá 👋, Meu Nome É Marcos. Sou Um Aspirante A Desenvolvedor Web Full Stack.</h1>
 
 <p align="right">
@@ -32,6 +31,8 @@
 ## 📖  O Que Estou Estudando Atualmente
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
+<br>
 
 ## 📖  O Que Pretendo Estudar Futuramente
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;

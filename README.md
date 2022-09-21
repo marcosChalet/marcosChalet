@@ -29,6 +29,12 @@
 ### 🔭 Dê Uma Olhada Em Meu [Portfólio](https://marcoschalet.github.io/portfolio/).
 <br>
 
+## 🧑🏽‍💻  O Que Estou Desenvolvendo
+<a href="https://github.com/marcosChalet/codigos-apostila"><img src="https://img.shields.io/static/v1?label=apostila&message=estrutura de dados&color=9cf&style=for-the-badge"/></a>&nbsp;
+<a href="https://github.com/marcosChalet/logic-calculator"><img src="https://img.shields.io/static/v1?label=projeto&message=calculadora de tabela verdade&color=blueviolet&style=for-the-badge"/></a>
+
+<br>
+  
 ## 📖  O Que Estou Estudando Atualmente
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://pt-br.reactjs.org/)&nbsp;
 [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)](https://sass-lang.com/)
@@ -45,7 +51,7 @@
 
 <br>
 
-## 📈 Stats
+## 📈 Estatísticas
 
 <br>
 

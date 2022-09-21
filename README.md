@@ -53,7 +53,6 @@
 </p>
 
 [![Marcos github activity graph](https://activity-graph.herokuapp.com/graph?username=marcosChalet&theme=xcode)](https://github.com/marcosChalet)
-<br><br>
 
 <div align="right">
  <img width="145" height="145" src="https://media.giphy.com/media/JQeTkanQd62ULmlJjV/giphy.gif" />

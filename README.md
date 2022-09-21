@@ -61,8 +61,8 @@
 </div>
                                                                                 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=marcosChalet&show_icons=true&theme=tokyonight" />&nbsp;&nbsp;
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosChalet&theme=tokyonight" />
+  <a href="https://github.com/marcosChalet"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=marcosChalet&show_icons=true&theme=tokyonight" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/marcosChalet"><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosChalet&theme=tokyonight" /></a>
 </p>
 
 <div align="center">

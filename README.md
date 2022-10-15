@@ -30,7 +30,6 @@
 <br>
 
 ## :computer: O Que Estou Desenvolvendo
-<a href="https://github.com/marcosChalet/codigos-apostila"><img src="https://img.shields.io/static/v1?label=apostila&message=estruturas de dados&color=9cf&style=for-the-badge"/></a>&nbsp;
 <a href="https://github.com/marcosChalet/logic-calculator"><img src="https://img.shields.io/static/v1?label=projeto&message=calculadora de tabela verdade&color=blueviolet&style=for-the-badge"/></a>
 
 <br>

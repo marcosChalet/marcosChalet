@@ -44,8 +44,8 @@
 ## 📖  O Que Pretendo Estudar Futuramente
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)&nbsp;
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/docs/)&nbsp;
+  [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)&nbsp;
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)&nbsp;
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)&nbsp;
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)&nbsp;
 [![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 
@@ -56,23 +56,31 @@
 <br>
 
 <p align="center">
-<img  src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&size=38&center=true&vCenter=true&color=03989EFF&width=1700&lines=Buscando+Me+Tornar+Um+Full-Stack+Developer;Graduando+Em+Ciência+Da+Computação+Pela+Universidade+Federal+Do+Cariri;"  width="100%"  height="40px></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg">
+   <img  src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&size=38&center=true&vCenter=true&color=03989EFF&width=1700&lines=Buscando+Me+Tornar+Um+Full-Stack+Developer;Graduando+Em+Ciência+Da+Computação+Pela+Universidade+Federal+Do+Cariri;" width="100%" height="40px>
+ </a>
 </p>
 
-[![Marcos github activity graph](https://activity-graph.herokuapp.com/graph?username=marcosChalet&theme=xcode)](https://github.com/marcosChalet)
+[![Marcos github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=marcosChalet&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="right">
- <img width="145" height="145" src="https://media.giphy.com/media/JQeTkanQd62ULmlJjV/giphy.gif" />
- <img width=20% src="https://media.giphy.com/media/S3ttuuoFfsi6Mw5fKr/giphy.gif" />
+ <a href="https://giphy.com/white_room">
+  <img width="145" height="145" src="https://media.giphy.com/media/JQeTkanQd62ULmlJjV/giphy.gif" />
+ </a>
+ <a href="https://giphy.com/opertura">
+  <img width=20% src="https://media.giphy.com/media/S3ttuuoFfsi6Mw5fKr/giphy.gif" />
+ </a>
 </div>
                                                                                 
 <p align="center">
-  <a href="https://github.com/marcosChalet"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=marcosChalet&show_icons=true&theme=tokyonight" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/marcosChalet"><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosChalet&theme=tokyonight" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=marcosChalet&show_icons=true&theme=tokyonight" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosChalet&theme=tokyonight" /></a>
 </p>
 
 <div align="center">
- <img width="120" height="110" src="https://media.giphy.com/media/JQeTkanQd62ULmlJjV/giphy.gif" />
+ <a href="https://giphy.com/white_room">
+  <img width="120" height="110" src="https://media.giphy.com/media/JQeTkanQd62ULmlJjV/giphy.gif" />
+ </a>
 </div>
 
 <h2 align="center">ENTRE EM CONTATO 📲</h2>

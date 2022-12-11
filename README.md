@@ -57,7 +57,7 @@
 
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-   <img  src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&size=38&center=true&vCenter=true&color=03989EFF&width=1700&lines=Buscando+Me+Tornar+Um+Full-Stack+Developer;Graduando+Em+Ciência+Da+Computação+Pela+Universidade+Federal+Do+Cariri;" width="100%" height="40px>
+   <img  src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&size=38&center=true&vCenter=true&color=03989EFF&width=1700&lines=Buscando+Me+Tornar+Um+Full-Stack+Developer;Graduando+Em+Ciência+Da+Computação+Pela+Universidade+Federal+Do+Cariri;" width="100%" height="40px" />
  </a>
 </p>
 

@@ -70,10 +70,10 @@
   <img width=20% src="https://media.giphy.com/media/S3ttuuoFfsi6Mw5fKr/giphy.gif" />
  </a>
 </div>
-                                                                                
+
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=marcosChalet&show_icons=true&theme=tokyonight" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosChalet&theme=tokyonight" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="48%" src="http://github-readme-stats-2vbksnxfg-marcoschalet.vercel.app/api?username=marcosChalet&show_icons=true&theme=tokyonight" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/CatalanCabbage"><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosChalet&theme=tokyonight" /></a>
 </p>
 
 <div align="center">

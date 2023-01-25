@@ -13,6 +13,7 @@
  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>&nbsp;
  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/Reference"><img src="https://img.shields.io/badge/CSS3-239120?&style=for-the-badge&logo=css3&logoColor=white" /></a>&nbsp;
  <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" /></a>&nbsp;
+ <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>&nbsp;
  <a href="https://docs.oracle.com/en/java/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a>&nbsp;
  <a href="https://www.cprogramming.com/"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /></a>&nbsp;
  <a href="https://isocpp.org/std/the-standard"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>&nbsp;

@@ -1,6 +1,6 @@
 ![hero github](https://user-images.githubusercontent.com/72557256/192897424-5ef1de29-f181-4643-a5dc-3f28a9a01271.png)
 
-<h1 align="center">Olá 👋, Meu Nome É Marcos. Sou Um Aspirante A Desenvolvedor Web Full Stack.</h1>
+<h1 align="center">Hello 👋, My name is Marcos. I'm an Aspiring Full Stack Web Developer.</h1>
 
 <p align="right">
  <img src="https://komarev.com/ghpvc/?username=marcosChalet&label=VIEWS" />
@@ -15,9 +15,10 @@
  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/Reference"><img src="https://img.shields.io/badge/CSS3-239120?&style=for-the-badge&logo=css3&logoColor=white" /></a>&nbsp;
  <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" /></a>&nbsp;
  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>&nbsp;
+ <a href="https://jestjs.io/"><img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" /></a>&nbsp;
+ <a href="https://eslint.org/"><img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" /></a>&nbsp;
  <a href="https://docs.oracle.com/en/java/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a>&nbsp;
  <a href="https://www.cprogramming.com/"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /></a>&nbsp;
- <a href="https://isocpp.org/std/the-standard"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>&nbsp;
  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></a>
 <p>
 
@@ -30,22 +31,23 @@
 </p>
 <br>
 
-### 🔭 Dê Uma Olhada Em Meu [Portfólio](https://marcoschalet.github.io/portfolio/).
+### 🔭 Take A Look At My [Portfolio](https://marcoschalet.github.io/portfolio/).
 <br>
 
-## :computer: O Que Estou Desenvolvendo
+## :computer: What I'm Developing
 <a href="https://github.com/marcosChalet/logic-calculator"><img src="https://img.shields.io/static/v1?label=projeto&message=calculadora de tabela verdade&color=blueviolet&style=for-the-badge"/></a>&nbsp;
 
 <br>
   
-## 📖  O Que Estou Estudando Atualmente
+## 📖 What I'm Studying
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)&nbsp;
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)](https://firebase.google.com/)&nbsp;
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)&nbsp;
+[![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)&nbsp;
 
 <br>
 
-## :baby_bottle:  O Que Pretendo Estudar Futuramente
+## :baby_bottle: What I Intend To Study In The Future
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)&nbsp;
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)&nbsp;
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/docs/)&nbsp;
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/)&nbsp;
@@ -53,13 +55,13 @@
 
 <br>
 
-## 📈 Estatísticas
+## 📈 Statistics
 
 <br>
 
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-   <img  src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&size=38&center=true&vCenter=true&color=03989EFF&width=1700&lines=Buscando+Me+Tornar+Um+Full-Stack+Developer;Graduando+Em+Ciência+Da+Computação+Pela+Universidade+Federal+Do+Cariri;" width="100%" height="40px" />
+   <img  src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&size=38&center=true&vCenter=true&color=03989EFF&width=1700&lines=Looking+To+Become+A+Full-Stack+Web+Developer.;Graduating+In+Computer+Science+At+The+Universidade+Federal+Do+Cariri.;" width="100%" height="40px" />
  </a>
 </p>
 
@@ -85,7 +87,7 @@
  </a>
 </div>
 
-<h2 align="center">ENTRE EM CONTATO 📲</h2>
+<h2 align="center">CONTACT ME 📲</h2>
 <br>
 
 <p align="center">

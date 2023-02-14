@@ -1,4 +1,4 @@
-![hero github](https://user-images.githubusercontent.com/72557256/192897424-5ef1de29-f181-4643-a5dc-3f28a9a01271.png)
+![hero-no-icn](https://user-images.githubusercontent.com/72557256/218764267-7a4f9e33-a147-4380-bada-eef7d4d4faa6.png)
 
 <h1 align="center">Hello 👋, My name is Marcos. I'm an Aspiring Full Stack Web Developer.</h1>
 
@@ -20,14 +20,14 @@
  <a href="https://docs.oracle.com/en/java/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a>&nbsp;
  <a href="https://www.cprogramming.com/"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /></a>&nbsp;
  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-<p>
+</p>
 
 <p align="center">
- <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><a>&nbsp;
- <a href="https://neovim.io/"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" /></a>&nbsp;
-  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>&nbsp;
- <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" /></a>&nbsp;
- <a href="https://github.com"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+ <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;
+ <a href="https://neovim.io/"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />&nbsp;
+ <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;
+ <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;
+ <a href="https://github.com"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </p>
 <br>
 
@@ -35,7 +35,7 @@
 <br>
 
 ## :computer: What I'm Developing
-<a href="https://github.com/marcosChalet/logic-calculator"><img src="https://img.shields.io/static/v1?label=projeto&message=calculadora de tabela verdade&color=blueviolet&style=for-the-badge"/></a>&nbsp;
+<a href="https://github.com/marcosChalet/logic-calculator"><img src="https://img.shields.io/static/v1?label=projeto&message=calculadora de tabela verdade&color=blueviolet&style=for-the-badge" />&nbsp;
 
 <br>
   
@@ -77,8 +77,8 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="48%" src="http://github-readme-stats-2vbksnxfg-marcoschalet.vercel.app/api?username=marcosChalet&show_icons=true&theme=tokyonight" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/CatalanCabbage"><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosChalet&theme=tokyonight" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="48%" src="http://github-readme-stats-2vbksnxfg-marcoschalet.vercel.app/api?username=marcosChalet&show_icons=true&theme=tokyonight" />&nbsp;&nbsp;
+  <a href="https://github.com/CatalanCabbage"><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosChalet&theme=tokyonight" />
 </p>
 
 <div align="center">
@@ -92,5 +92,5 @@
 
 <p align="center">
  <a href="https://www.instagram.com/marcoschalet"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>&nbsp;
- <a href="https://www.linkedin.com/in/marcoschalet"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<p>
+ <a href="https://www.linkedin.com/in/marcoschalet"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</p>

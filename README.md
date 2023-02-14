@@ -1,4 +1,4 @@
-![hero-no-icn](https://user-images.githubusercontent.com/72557256/218764267-7a4f9e33-a147-4380-bada-eef7d4d4faa6.png)
+![hero-clean](https://user-images.githubusercontent.com/72557256/218781975-f9fe4d3c-3b81-47a3-b687-c1087ecef8e5.png)
 
 <h1 align="center">Hello 👋, My name is Marcos. I'm an Aspiring Full Stack Web Developer.</h1>
 

@@ -36,7 +36,7 @@
 <br>
 
 ## :computer: What I'm Developing
-<a href="https://github.com/marcosChalet/next-crud"><img src="https://img.shields.io/static/v1?label=project&message=Typescript - Next.js Crud&color=blueviolet&style=for-the-badge" />&nbsp;
+<a href="https://github.com/marcosChalet/chalet-blog"><img src="https://img.shields.io/static/v1?label=project&message=Personal blog&color=blueviolet&style=for-the-badge" />&nbsp;
 
 <br>
   

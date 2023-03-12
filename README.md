@@ -24,11 +24,11 @@
 </p>
 
 <p align="center">
- <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;
- <a href="https://neovim.io/"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />&nbsp;
- <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;
- <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;
- <a href="https://github.com"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
+ <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>&nbsp;
+ <a href="https://neovim.io/"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" /></a>&nbsp;
+ <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>&nbsp;
+ <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" /></a>&nbsp;
+ <a href="https://github.com"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 <br>
 
@@ -36,7 +36,7 @@
 <br>
 
 ## :computer: What I'm Developing
-<a href="https://github.com/marcosChalet/chalet-blog"><img src="https://img.shields.io/static/v1?label=project&message=Personal blog&color=blueviolet&style=for-the-badge" /></a>&nbsp;
+<a href="https://github.com/marcosChalet/SOS-feridas"><img src="https://img.shields.io/static/v1?label=project&message=SOS Feridas&color=blueviolet&style=for-the-badge" /></a>&nbsp;
 
 <br>
   

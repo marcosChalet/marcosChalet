@@ -36,7 +36,7 @@
 <br>
 
 ## :computer: What I'm Developing
-<a href="https://github.com/marcosChalet/SOS-feridas"><img src="https://img.shields.io/static/v1?label=project&message=SOS Feridas&color=blueviolet&style=for-the-badge" /></a>&nbsp;
+<a href="https://github.com/marcosChalet/chalet-blog"><img src="https://img.shields.io/static/v1?label=project&message=Blog&color=blueviolet&style=for-the-badge" /></a>&nbsp;
 
 <br>
   

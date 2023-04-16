@@ -76,8 +76,8 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="48%" src="http://github-readme-stats-2vbksnxfg-marcoschalet.vercel.app/api?username=marcosChalet&show_icons=true&theme=tokyonight" />&nbsp;&nbsp;
-  <a href="https://github.com/CatalanCabbage"><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosChalet&theme=tokyonight" />
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="47%" src="http://github-readme-stats-2vbksnxfg-marcoschalet.vercel.app/api?username=marcosChalet&show_icons=true&theme=tokyonight" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/CatalanCabbage"><img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosChalet&theme=tokyonight" /></a>
 </p>
 
 <div align="center">

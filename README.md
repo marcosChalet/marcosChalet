@@ -62,7 +62,9 @@
  </a>
 </p>
 
-[![Marcos github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=marcosChalet&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marcosChalet&bg_color=1a1b27&color=b3bbcc&line=628fdb&point=d1bdff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <div align="right">
  <a href="https://giphy.com/white_room">

@@ -52,39 +52,42 @@
 
 <br>
 
-## 📈 Statistics
+<details>
+ <summary>Read More</summary>
+ <h2>📈 Statistics</h2>
 
-<br>
+ <br>
 
-<p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg">
-   <img  src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&size=38&center=true&vCenter=true&color=03989EFF&width=1700&lines=Looking+To+Become+A+Full-Stack+Web+Developer.;Graduating+In+Computer+Science+At+The+Universidade+Federal+Do+Cariri.;" width="100%" height="40px" />
- </a>
-</p>
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marcosChalet&bg_color=1a1b27&color=b3bbcc&line=628fdb&point=d1bdff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img  src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&size=38&center=true&vCenter=true&color=03989EFF&width=1700&lines=Looking+To+Become+A+Full-Stack+Web+Developer.;Graduating+In+Computer+Science+At+The+Universidade+Federal+Do+Cariri.;" width="100%" height="40px" />
+  </a>
+ </p>
 
 
-<div align="right">
- <a href="https://giphy.com/white_room">
-  <img width="145" height="145" src="https://media.giphy.com/media/JQeTkanQd62ULmlJjV/giphy.gif" />
- </a>
- <a href="https://giphy.com/opertura">
-  <img width=20% src="https://media.giphy.com/media/S3ttuuoFfsi6Mw5fKr/giphy.gif" />
- </a>
-</div>
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marcosChalet&bg_color=1a1b27&color=b3bbcc&line=628fdb&point=d1bdff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="45%" src="http://github-readme-stats-2vbksnxfg-marcoschalet.vercel.app/api?username=marcosChalet&show_icons=true&theme=tokyonight"></img></a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosChalet&theme=tokyonight"></img></a>
-</p>
 
-<div align="center">
- <a href="https://giphy.com/white_room">
-  <img width="120" height="110" src="https://media.giphy.com/media/JQeTkanQd62ULmlJjV/giphy.gif" />
- </a>
-</div>
+ <div align="right">
+  <a href="https://giphy.com/white_room">
+   <img width="145" height="145" src="https://media.giphy.com/media/JQeTkanQd62ULmlJjV/giphy.gif" />
+  </a>
+  <a href="https://giphy.com/opertura">
+   <img width=20% src="https://media.giphy.com/media/S3ttuuoFfsi6Mw5fKr/giphy.gif" />
+  </a>
+ </div>
+
+ <p align="center">
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img width="45%" src="http://github-readme-stats-2vbksnxfg-marcoschalet.vercel.app/api?username=marcosChalet&show_icons=true&theme=tokyonight"></img></a>
+   <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosChalet&theme=tokyonight"></img></a>
+ </p>
+
+ <div align="center">
+  <a href="https://giphy.com/white_room">
+   <img width="120" height="110" src="https://media.giphy.com/media/JQeTkanQd62ULmlJjV/giphy.gif" />
+  </a>
+ </div>
+</details>
 
 <h2 align="center">CONTACT ME 📲</h2>
 <br>

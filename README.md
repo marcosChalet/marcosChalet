@@ -76,7 +76,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="45%" src="http://github-readme-stats-2vbksnxfg-marcoschalet.vercel.app/api?username=marcosChalet&show_icons=true&theme=tokyonight"></img></a>&nbsp;&nbsp;
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="45%" src="http://github-readme-stats-2vbksnxfg-marcoschalet.vercel.app/api?username=marcosChalet&show_icons=true&theme=tokyonight"></img></a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosChalet&theme=tokyonight"></img></a>
 </p>
 

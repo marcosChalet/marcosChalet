@@ -1,4 +1,4 @@
-![hero-clean](https://user-images.githubusercontent.com/72557256/218781975-f9fe4d3c-3b81-47a3-b687-c1087ecef8e5.png)
+![FULLSTACK](https://github.com/marcosChalet/marcosChalet/assets/72557256/b5e6cbbd-a278-4701-81c0-407d035819a8)
 
 <h1 align="center">Hello 👋, My name is Marcos. I'm an Aspiring Full Stack Web Developer.</h1>
 

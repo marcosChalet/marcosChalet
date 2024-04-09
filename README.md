@@ -1,6 +1,6 @@
-![FULLSTACK](https://github.com/marcosChalet/marcosChalet/assets/72557256/b5e6cbbd-a278-4701-81c0-407d035819a8)
+![FULLSTACK](https://github.com/marcosChalet/marcosChalet/assets/72557256/6aecfa0f-ffd6-46ee-904a-bb4ab6593e7f)
 
-<h1 align="center">Hello 👋, My name is Marcos. I'm an Aspiring Full Stack Web Developer.</h1>
+<h1 align="center">Always looking for new challenges and learning in web development.</h1>
 
 <p align="right">
  <img src="https://komarev.com/ghpvc/?username=marcosChalet&label=VIEWS" />

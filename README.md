@@ -27,7 +27,7 @@
 </p>
 <br>
 
-### 🔭 Take A Look At My [Portfolio](https://portfolio-git-main-marcoschalets-projects.vercel.app/).
+### 🔭 Take A Look At My [Portfolio](https://marcoschalet.com/).
 <br>
 
 ## :computer: What I'm Developing

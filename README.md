@@ -32,7 +32,8 @@
 
 ## :computer: What I'm Developing
 
-[Chalet Shoes Infrastructure](https://github.com/marcosChalet/infra-sisdis)
+[Daily Report Manager](https://github.com/marcosChalet/repo-meta-daily-report)
+
 
 <br>
   
